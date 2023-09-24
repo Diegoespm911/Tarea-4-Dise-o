@@ -1,0 +1,6 @@
+.imagen-carrusel {
+    width: 100%; /* Ajusta el ancho al 100% del contenedor del carrusel */
+    height: auto; /* Esto mantendrá las proporciones originales */
+    max-height: 800px; /* Establece la altura máxima deseada */
+}
+
